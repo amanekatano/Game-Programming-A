@@ -10,8 +10,8 @@
 3. [課題レポジトリのクローン](../../課題レポジトリのクローン)
 
 ## 参考書籍・Webサイト
-- [Unity - Learn](https://unity3d.com/jp/learn): まずはここから。動画形式のチュートリアルも充実しています。
-- [Unity C#ふりがなプログラミング](https://book.impress.co.jp/books/1118101104)： とても平易に書かれたUnityC#の解説書です。基礎をしっかり身につけるためにお勧めです。
+- [Unity C# ふりがなプログラミング](https://book.impress.co.jp/books/1118101104)： とても平易に書かれたUnityC#の解説書です。基礎的事項から丁寧に解説されています。
 - [Unityの教科書](https://www.sbcr.jp/products/4797397659.html): わかりやすいチュートリアル形式でUnityの基本を学べます。
 - [UnityではじめるC# 基礎編](https://books.mdn.co.jp/books/3216303009/): こちらもチュートリアル形式でUnityの基本を紹介していますが、C#についての解説にも比重が置かれています。
+- [Unity - Learn](https://unity3d.com/jp/learn): Unity公式の学習リソース。動画形式のチュートリアルも充実しています。
 
