@@ -6,7 +6,7 @@
 
 ## スケジュール
 ### 第1回目：ガイダンス
-1. スライド
+1. [スライド](./01ガイダンスと導入.pdf)
 2. [Unityのインストール(macos)](../../wiki/Unityのインストール(macos))
 3. [GitHub Desktopのインストール(macos)](../../wiki/GitHubDesktopのインストール(macos))
 
