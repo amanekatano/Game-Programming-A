@@ -4,23 +4,24 @@ using UnityEngine;
 
 public class Lesson32 : MonoBehaviour
 {
+    bool isMoving = false; // 移動 or 静止?
     void Start()
     {
-        
     }
 
     void Update()
     {
-        
     }
 
     private void OnMouseEnter()
     {
-        //Debug.Log("Enter");
+        isMoving = true;
+        Debug.Log("Enter");
     }
 
     private void OnMouseExit()
     {
-        //Debug.Log("Exit");
+        isMoving = false;
+        Debug.Log("Exit");
     }
 }
