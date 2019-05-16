@@ -9,11 +9,11 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        for () // 縦に並べる
+        for (int x = -1; x <= 1; ++x) // 縦に並べる
         {
-            for () // 横に並べる
+            for (int y = 0; y < 2; ++y) // 横に並べる
             {
-                Instantiate(block, new Vector3(???, ???, 0), Quaternion.identity);
+                Instantiate(block, new Vector3(x * 3.0f, y * 2.0f, 0), Quaternion.identity);
                 // blockオブジェクトを指定した位置に生成する
             }
         }
